@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237474305382",
+    "firebase_url": "https://negocia-app.firebaseio.com",
+    "project_id": "negocia-app",
+    "storage_bucket": "negocia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237474305382:android:43b4b8978ce988e4efe4a7",
+        "android_client_info": {
+          "package_name": "com.utletics.negocia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237474305382-qfeld3pqa0tfg9c4fre7b0c7ridk3c8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utletics.negocia",
+            "certificate_hash": "92c85fa8928d6f3de4406cb70f33fd6f6bb5f58f"
+          }
+        },
+        {
+          "client_id": "237474305382-vq2h9lnjq3t2b9k2d1tobrv1lcd4n5op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUepWf-QG0lmHQ-JhVU7ynuNGL6R4Oqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237474305382-vq2h9lnjq3t2b9k2d1tobrv1lcd4n5op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
